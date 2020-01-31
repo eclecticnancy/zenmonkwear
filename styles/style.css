@@ -1,0 +1,92 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Oswald", sans-serif;
+}
+
+h3 {
+	color: #AC8861;
+}
+
+h4 {
+	color: #8C441C;
+}
+
+a,
+p,
+li {
+	font-family: sans-serif;
+	color: #1C1D21;
+}
+
+header {
+	background: #ccc;
+}
+
+.wrap {
+	margin: 0 150px;
+}
+
+.banner {
+	background: url('../images/zafu-background.jpg') no-repeat;
+	height: 100px;
+	color: #fff;
+	padding: 20px 20px 0px 20px;
+	margin: 0 150px;
+}
+
+.banner #banner-text {
+    background: rgba(80,80,80,0.3);
+    max-width: 500px;
+}
+
+.banner h1{
+	margin: 0;
+}
+
+.banner h2{
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+#menu {
+	padding: 20px;
+	margin: 0 130px;
+}
+
+#menu a {
+	font-family: "Oswald";
+	color: #000;	
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #AC8861;
+}
+
+footer {
+	background: #ccc;
+	text-align: center;
+	height: 80px;
+	padding: 10px;
+}
+footer img{
+	width: 20px;
+	padding: 10px;
+}
+footer p{
+	margin: 0px;
+}
+
+#about img {
+	width: 150px;
+}
+
+#contact img {
+	width: 150px;
+}
