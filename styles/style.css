@@ -40,7 +40,8 @@ header {
 }
 
 .banner #banner-text {
-    background: rgba(80,80,80,0.3);
+    /*background: rgba(80,80,80,0.3); */
+    background: #4f4f4f;
     max-width: 500px;
 }
 
